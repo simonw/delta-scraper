@@ -3,7 +3,7 @@
 IN EARLY DEVELOPMENT
 
 [![PyPI](https://img.shields.io/pypi/v/delta-scraper.svg)](https://pypi.org/project/delta-scraper/)
-[![Travis CI](https://travis-ci.com/simonw/delta-scraper.svg?branch=master)](https://travis-ci.com/simonw/delta-scraper)
+[![CircleCI](https://circleci.com/gh/simonw/delta-scraper.svg?style=svg)](https://circleci.com/gh/simonw/delta-scraper)
 [![Documentation Status](https://readthedocs.org/projects/delta-scraper/badge/?version=latest)](http://delta-scraper.readthedocs.io/en/latest/?badge=latest)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/delta-scraper/blob/master/LICENSE)
 
